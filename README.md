@@ -53,6 +53,22 @@ dev = Developer()
 
 ---
 
+## ⚡ Currently Exploring
+
+> **Advanced RAG systems, multi-agent workflows, and automated content pipelines.**
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Year | Credential |
+|---------------|--------|------|------------|
+| **Neural Networks & Deep Learning** | DeepLearning.AI | 2024 | [View](https://coursera.org/verify/...) |
+| **Google Data Analytics Professional Certificate** | Google | 2024 | [View](https://coursera.org/verify/...) |
+| **Google Foundations: Data, Data, Everywhere** | Google | 2024 | [View](https://coursera.org/verify/...) |
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages & Core
@@ -126,6 +142,12 @@ dev = Developer()
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oblackx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oblackx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
