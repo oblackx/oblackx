@@ -1,65 +1,65 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Developer;Automation+Engineer;AI+%26+RAG+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Mohamed+Amine+ELBOUHALI+(oblackx);Computer+Engineering+Student;Full-Stack+%26+AI%2FRAG+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/oblackx">
-    <img src="https://img.shields.io/badge/GitHub-oblackx-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-oblackx-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Amine%20ELBOUHALI-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:amineelbouhali6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-amineelbouhali6%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
-**Computer Engineering Student** • **Full-Stack Developer** • **Automation & AI Engineer**
+🔹 **Building** production-grade RAG & multi-agent systems with **LangGraph**, **pgvector**, and **PostgreSQL**  
+🔹 **Automating** desktop & web workflows using **Playwright**, **Patchright**, **ScreenHand**, and **Windows Computer Use**  
+🔹 **Crafting** open-source CLI tools in **Python** & **Go** for developers  
+🔹 **Engineering** full-stack applications with **Laravel**, **FastAPI**, **JavaFX**, and modern tooling  
 
-I build production-grade automation pipelines, RAG systems, and intelligent desktop/web applications. My focus is on clean architecture, performance optimization, and solving real-world problems with modern tooling.
+---
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Mohamed Amine ELBOUHALI"
-        self.role = "Computer Engineering Student"
-        self.github = "oblackx"
-        self.focus = ["RAG/LangGraph", "Automation Pipelines", "Desktop Apps", "Full-Stack Web"]
-    
-    def tech_stack(self):
-        return {
-            "languages": ["Python", "PHP", "Java", "JavaScript", "SQL"],
-            "frameworks": ["Laravel", "LangChain", "LangGraph", "JavaFX", "FastAPI"],
-            "databases": ["PostgreSQL", "pgvector", "Redis", "SQLite"],
-            "ai_ml": ["LangChain", "LangGraph", "pgvector", "Embeddings", "LLM Orchestration"],
-            "devops": ["Docker", "Git", "Linux", "CI/CD", "GitHub Actions"],
-            "desktop": ["JavaFX", "Electron", "PyQt", "Desktop Automation"],
-        }
-    
-    def currently_building(self):
-        return [
-            "Multi-agent RAG pipelines with LangGraph",
-            "Cross-platform desktop automation frameworks",
-            "Social media content automation (IG/X/LinkedIn)",
-            "AI-powered content generation & scheduling"
-        ]
+### 🌟 Thought of the Day
 
-dev = Developer()
+> **_This quote updates daily via GitHub Actions_**
+
+```text
+"The best code is no code at all." — Jeff Atwood
 ```
 
----
-
-## ⚡ Currently Exploring
-
-> **Advanced RAG systems, multi-agent workflows, and automated content pipelines.**
+*Last updated: <!--QUOTE_DATE-->*
 
 ---
 
-## 🏆 Certifications
+### 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white) |
+| **Data & AI** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-3D6CFE?style=flat-square&logo=chroma&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[chatbot-chariaa](https://github.com/oblackx/chatbot-chariaa)** | Multi-agent RAG pipeline with semantic search & hybrid retrieval. LangGraph orchestration for complex conversation flows. | `Python` `LangChain` `LangGraph` `pgvector` `PostgreSQL` |
+| **[signature-electronique](https://github.com/oblackx/signature-electronique)** | PKI-based digital signature desktop app. PDF signing, verification & timestamping with certificate validation. Clean JavaFX/FXML architecture. | `Java` `JavaFX` `Cryptography` `PDF` |
+| **[signature-electronique-web](https://github.com/oblackx/signature-electronique-web)** | Full-stack web platform for document signing workflows. RBAC, audit trails, document versioning, REST API. | `PHP` `Laravel` `MySQL` `REST API` `RBAC` |
+| **[docucraft-ai](https://github.com/oblackx/docucraft-ai)** | AI-powered CLI README generator. Scans codebases, generates professional docs. Local LLM via Ollama for privacy. | `Python` `Ollama` `CLI` `RAG` `LangChain` |
+
+---
+
+### 🏆 Verified Certifications
 
 | Certification | Issuer | Date | Credential |
 | :--- | :--- | :--- | :--- |
@@ -70,78 +70,15 @@ dev = Developer()
 
 ---
 
-## 🛠 Tech Stack
+### 🏅 GitHub Trophies
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white)
-
-### Data & AI
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3D6CFE?style=flat-square&logo=chroma&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oblackx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 **[chatbot-chariaa](https://github.com/oblackx/chatbot-chariaa)** — *RAG-Powered Conversational AI*
-> **Python • LangChain • LangGraph • pgvector • PostgreSQL**
-- Multi-agent RAG pipeline with semantic search & hybrid retrieval
-- LangGraph orchestration for complex conversation flows
-- pgvector + PostgreSQL for scalable vector storage
-- Modular architecture: ingestion → embedding → retrieval → generation
-
-### ✍️ **[signature-electronique](https://github.com/oblackx/signature-electronique)** — *Digital Signature Desktop App*
-> **Java • JavaFX • Cryptography • PDF Processing**
-- Secure electronic signature desktop application
-- PKI-based digital signatures with certificate validation
-- PDF document signing, verification & timestamping
-- Clean JavaFX UI with modular FXML architecture
-
-### 🌐 **[signature-electronique-web](https://github.com/oblackx/signature-electronique-web)** — *Web Signature Platform*
-> **Laravel • Blade • MySQL • REST API**
-- Full-stack web platform for document signing workflows
-- Role-based access control (signers, validators, admins)
-- Audit trails, document versioning, email notifications
-- API-first design for third-party integrations
-
-### 📄 **[docucraft-ai](https://github.com/oblackx/docucraft-ai)** — *AI-Powered README Generator*
-> **Python • Ollama • CLI • RAG • LangChain**
-- Scans codebases and generates professional documentation automatically
-- Local LLM inference via Ollama for privacy-first AI
-- Multi-language support with extensible parser architecture
-- Configurable output templates (Markdown, HTML, Confluence)
-
-### 🔄 **Automation Frameworks** *(Private Repos)*
-> **Python • Playwright • ScreenHand • Desktop Automation**
-- **Instagram/X/LinkedIn content automation** — End-to-end publishing pipelines
-- **Cross-platform desktop automation** — ScreenHand + Windows Computer Use
-- **Browser automation** — Playwright/Patchright for scraping & interaction
-- **AI content generation** — LLM-powered caption, hook, and script writing
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=oblackx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -152,33 +89,17 @@ dev = Developer()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oblackx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🏅 GitHub Trophies
+---
+
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oblackx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oblackx&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🎯 Current Focus
-
-- **Advanced RAG**: Multi-hop reasoning, agentic retrieval, self-correcting pipelines
-- **Desktop Automation**: ScreenHand playbooks, Windows Computer Use, cross-app workflows
-- **Content AI**: Automated content repurposing (YouTube → Shorts/Reels/Posts)
-- **Multi-Agent Systems**: LangGraph orchestration for complex task decomposition
-
----
-
-## 💬 Ask Me About
-
-- **RAG & LangGraph** — Multi-agent pipelines, hybrid retrieval, self-correcting agents
-- **Laravel & REST APIs** — Clean architecture, RBAC, API-first design, testing
-- **JavaFX Desktop Apps** — FXML, modular UI, PKI/cryptography, cross-platform builds
-- **Python & Browser Automation** — Playwright, Patchright, ScreenHand, scraping pipelines
-
----
-
-## 🤝 Let's Connect
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/oblackx">
@@ -195,5 +116,5 @@ dev = Developer()
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohamed Amine ELBOUHALI</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohamed Amine ELBOUHALI</a> • Auto-updated daily via GitHub Actions</sub>
 </p>
