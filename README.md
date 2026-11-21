@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Amine%20ELBOUHALI-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:mohamed.amine.elbouhali@emsi.ma">
+  <a href="mailto:amineelbouhali6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-**Computer Engineering Student** at **EMSI Marrakech** • **Full-Stack Developer** • **Automation & AI Engineer**
+**Computer Engineering Student** • **Full-Stack Developer** • **Automation & AI Engineer**
 
 I build production-grade automation pipelines, RAG systems, and intelligent desktop/web applications. My focus is on clean architecture, performance optimization, and solving real-world problems with modern tooling.
 
@@ -26,7 +26,7 @@ I build production-grade automation pipelines, RAG systems, and intelligent desk
 class Developer:
     def __init__(self):
         self.name = "Mohamed Amine ELBOUHALI"
-        self.role = "Computer Engineering Student @ EMSI Marrakech"
+        self.role = "Computer Engineering Student"
         self.github = "oblackx"
         self.focus = ["RAG/LangGraph", "Automation Pipelines", "Desktop Apps", "Full-Stack Web"]
     
@@ -187,7 +187,7 @@ dev = Developer()
   <a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:mohamed.amine.elbouhali@emsi.ma">
+  <a href="mailto:amineelbouhali6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
