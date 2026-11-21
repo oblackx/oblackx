@@ -6,8 +6,8 @@
   <a href="https://github.com/oblackx">
     <img src="https://img.shields.io/badge/GitHub-oblackx-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
-  <a href="https://linkedin.com/in/mohamed-amine-elbouhali">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Amine%20ELBOUHALI-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Amine%20ELBOUHALI-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamed.amine.elbouhali@emsi.ma">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
@@ -61,11 +61,12 @@ dev = Developer()
 
 ## 🏆 Certifications
 
-| Certification | Issuer | Year | Credential |
-|---------------|--------|------|------------|
-| **Neural Networks & Deep Learning** | DeepLearning.AI | 2024 | [View](https://coursera.org/verify/...) |
-| **Google Data Analytics Professional Certificate** | Google | 2024 | [View](https://coursera.org/verify/...) |
-| **Google Foundations: Data, Data, Everywhere** | Google | 2024 | [View](https://coursera.org/verify/...) |
+| Certification | Issuer | Date | Credential |
+| :--- | :--- | :--- | :--- |
+| **Neural Networks and Deep Learning** | DeepLearning.AI | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/TCP2HNO5Z5QA) |
+| **Foundations: Data, Data, Everywhere** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/UXDSM8IQJGCT) |
+| **Foundations of Project Management** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/KXBDE8RPT6DO) |
+| **The Unix Workbench** | Johns Hopkins University | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/1EAJRHYXDCZ0) |
 
 ---
 
@@ -124,6 +125,13 @@ dev = Developer()
 - Audit trails, document versioning, email notifications
 - API-first design for third-party integrations
 
+### 📄 **[docucraft-ai](https://github.com/oblackx/docucraft-ai)** — *AI-Powered README Generator*
+> **Python • Ollama • CLI • RAG • LangChain**
+- Scans codebases and generates professional documentation automatically
+- Local LLM inference via Ollama for privacy-first AI
+- Multi-language support with extensible parser architecture
+- Configurable output templates (Markdown, HTML, Confluence)
+
 ### 🔄 **Automation Frameworks** *(Private Repos)*
 > **Python • Playwright • ScreenHand • Desktop Automation**
 - **Instagram/X/LinkedIn content automation** — End-to-end publishing pipelines
@@ -161,13 +169,22 @@ dev = Developer()
 
 ---
 
+## 💬 Ask Me About
+
+- **RAG & LangGraph** — Multi-agent pipelines, hybrid retrieval, self-correcting agents
+- **Laravel & REST APIs** — Clean architecture, RBAC, API-first design, testing
+- **JavaFX Desktop Apps** — FXML, modular UI, PKI/cryptography, cross-platform builds
+- **Python & Browser Automation** — Playwright, Patchright, ScreenHand, scraping pipelines
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/oblackx">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/mohamed-amine-elbouhali">
+  <a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mohamed.amine.elbouhali@emsi.ma">
@@ -178,5 +195,5 @@ dev = Developer()
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohamed Amine ELBOUHALI</a> • Last updated: November 2026</sub>
+  <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohamed Amine ELBOUHALI</a></sub>
 </p>
