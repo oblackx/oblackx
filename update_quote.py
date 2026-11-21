@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Update the 'Thought of the Day' section in README.md with a random quote from quotes.json.
+Uses the readme-daily-quotes.vercel.app API (same as Kiran1689).
 This script is run daily via GitHub Actions.
 """
 
@@ -21,27 +22,32 @@ def pick_random_quote(quotes):
     return random.choice(quotes)
 
 def update_readme(quote):
-    """Update the README.md with the new quote."""
+    """Update the README.md with the new quote card."""
     readme_path = Path("README.md")
     content = readme_path.read_text(encoding="utf-8")
 
-    # Format the quote
-    quote_text = f"> **_{quote['text']}_**\n\n> — **{quote['author']}**"
-    today = datetime.utcnow().strftime("%B %d, %Y")
+    # Format the quote card using readme-daily-quotes API (same as Kiran1689)
+    quote_text = quote['text'].replace(' ', '%20').replace(',', '%2C').replace('.', '%2E').replace("'", '%27')
+    author_text = quote['author'].replace(' ', '%20')
 
-    # Replace the quote block (between "> **_This quote updates daily..." and "*Last updated:")
-    # Pattern matches the entire quote section
-    pattern = r'(> \*\*_This quote updates daily via GitHub Actions_\*\*\n\n)(.*?)(\n\n\*Last updated: <!--QUOTE_DATE-->\*)'
+    card_design = f'''<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author={author_text}&quote={quote_text}&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->'''
 
-    replacement = rf'\1{quote_text}\n\n*Last updated: {today} UTC*'
+    today = datetime.utcnow().strftime("%b %d, %Y")
 
-    new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+    # Replace the quote card (between START and END markers)
+    pattern = r'<!--STARTS_HERE_QUOTE_CARD-->(.|\n)*?<!--ENDS_HERE_QUOTE_CARD-->'
+    new_content = re.sub(pattern, card_design, content, flags=re.DOTALL)
 
-    if new_content == content:
-        # Fallback: try a more specific pattern
-        pattern2 = r'(> \*\*_This quote updates daily via GitHub Actions_\*\*\n\n```text\n)(.*?)(\n```\n\n\*Last updated: <!--QUOTE_DATE-->\*)'
-        replacement2 = rf'\1{quote["text"]} — {quote["author"]}\3'
-        new_content = re.sub(pattern2, replacement2, content, flags=re.DOTAND)
+    # Update the "Last updated" date
+    new_content = re.sub(
+        r'\*Last updated: <!--QUOTE_DATE-->\*',
+        f'*Last updated: {today}*',
+        new_content
+    )
 
     if new_content == content:
         print("WARNING: Could not find quote section to replace!")
@@ -49,7 +55,7 @@ def update_readme(quote):
 
     readme_path.write_text(new_content, encoding="utf-8")
     print(f"Updated quote: \"{quote['text']}\" — {quote['author']}")
-    print(f"Date: {today} UTC")
+    print(f"Date: {today}")
     return True
 
 def main():

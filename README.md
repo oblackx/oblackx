@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Mohamed+Amine+ELBOUHALI+(oblackx);Computer+Engineering+Student;Full-Stack+%26+AI%2FRAG+Developer" alt="Typing SVG" />
-</p>
+<!--Banner-->
+![Mohamed Amine ELBOUHALI Banner](./banner.png)
 
-<p align="center">
-  <a href="https://github.com/oblackx">
-    <img src="https://img.shields.io/badge/GitHub-oblackx-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Amine%20ELBOUHALI-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:amineelbouhali6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amineelbouhali6%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
+<!--Animated Skills (Dark/Light mode aware)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" width="45%" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
+</picture>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> **Mohamed Amine ELBOUHALI (oblackx)**  
+*Computer Engineering Student | Full-Stack & AI/RAG Developer*
 
 ---
 
@@ -25,19 +23,16 @@
 
 ---
 
-### 🌟 Thought of the Day
+### 🛠 Tech Stack & Latest Updates
 
-> **_This quote updates daily via GitHub Actions_**
+<h3 align="left">Current Focus</h3>
+<ul align="left">
+  <li>Deepening expertise in <strong>Agentic RAG</strong> and <strong>Multi-Agent Orchestration</strong> with LangGraph</li>
+  <li>Building cross-platform <strong>desktop automation</strong> pipelines (ScreenHand + Windows Computer Use)</li>
+  <li>Developing <strong>AI-powered CLI tools</strong> for codebase analysis and documentation generation</li>
+</ul>
 
-```text
-"The best code is no code at all." — Jeff Atwood
-```
-
-*Last updated: <!--QUOTE_DATE-->*
-
----
-
-### 🛠 Tech Stack & Tools
+<h3 align="left">Tech Stack</h3>
 
 | Category | Technologies |
 |----------|--------------|
@@ -45,6 +40,11 @@
 | **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=java&logoColor=white) |
 | **Data & AI** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-3D6CFE?style=flat-square&logo=chroma&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+<br />
+<br />
+<br />
+<br />
 
 ---
 
@@ -64,56 +64,94 @@
 | Certification | Issuer | Date | Credential |
 | :--- | :--- | :--- | :--- |
 | **Neural Networks and Deep Learning** | DeepLearning.AI | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/TCP2HNO5Z5QA) |
-| **Foundations: Data, Data, Everywhere** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/UXDSM8IQJGCT) |
-| **Foundations of Project Management** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/KXBDE8RPT6DO) |
-| **The Unix Workbench** | Johns Hopkins University | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/1EAJRHYXDCZ0) |
+| **Foundations: Data, Data, Everywhere** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/UXDSM8IQJGCT) |
+| **Foundations of Project Management** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/KXBDE8RPT6DO) |
+| **The Unix Workbench** | Johns Hopkins University | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/1EAJRHYXDCZ0) |
 
 ---
 
-### 🏅 GitHub Trophies
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oblackx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6" alt="GitHub Trophies" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/oblackx">
+          <img src="https://github-readme-stats.vercel.app/api?username=oblackx&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,1a1b27,161b22&title_color=36BCF7&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/oblackx">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=oblackx&theme=tokyonight&hide_border=true&background=0,1a1b27,161b22&fire=36BCF7&ring=36BCF7&sideNums=ffffff&sideLabels=c9d1d9&currStreakNum=36BCF7" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Top Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/oblackx">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblackx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,1a1b27,161b22&title_color=36BCF7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Contribution Graph</strong></h3>
+      <p align="center">
+        <a href="https://github.com/oblackx">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=oblackx&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff" alt="Contribution Graph" width="470" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 🌟 Thought of the Day
 
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oblackx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblackx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Johnson&quote=Before%20software%20can%20be%20reusable%20it%20first%20has%20to%20be%20usable%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
 </p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oblackx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oblackx&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+*Last updated: Nov 21, 2026*
 
 ---
 
 ### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/oblackx">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:amineelbouhali6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<div align="center">
+  
+<a href="mailto:amineelbouhali6@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="40" alt="Email" style="margin: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="40" alt="LinkedIn" style="margin: 5px;" />
+</a>
+
+<a href="https://github.com/oblackx" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="160" height="40" alt="GitHub" style="margin: 5px;" />
+</a>
+
+</div>
+
+<br />
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 <p align="center">
   <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohamed Amine ELBOUHALI</a> • Auto-updated daily via GitHub Actions</sub>
