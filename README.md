@@ -131,17 +131,17 @@
 
 <div align="center">
   
-<a href="mailto:amineelbouhali6@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="40" alt="Email" style="margin: 5px;" />
-</a>
+  <a href="mailto:amineelbouhali6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="40" alt="Email" style="margin: 8px;" />
+  </a>
 
-<a href="https://www.linkedin.com/in/mohammed-amine-elbouhali/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="40" alt="LinkedIn" style="margin: 5px;" />
-</a>
+  <a href="https://www.linkedin.com/in/mohammed-amine-elbouhali/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="40" alt="LinkedIn" style="margin: 8px;" />
+  </a>
 
-<a href="https://github.com/oblackx" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="160" height="40" alt="GitHub" style="margin: 5px;" />
-</a>
+  <a href="https://github.com/oblackx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="160" height="40" alt="GitHub" style="margin: 8px;" />
+  </a>
 
 </div>
 
