@@ -149,6 +149,19 @@
 
 ---
 
+### 💬 Ask Me About
+
+- Designing **agentic RAG pipelines** with hybrid retrieval (dense + sparse + reranking)
+- Building **multi-agent systems** with LangGraph for complex workflows
+- **pgvector/PostgreSQL** optimization: HNSW indexes, BM25, RRF fusion
+- **CLI tool development** in Python (Typer, Rich) and Go
+- **Desktop/web automation** with Playwright, Patchright, ScreenHand
+- **Full-stack development**: Laravel, FastAPI, JavaFX
+- **Docker & CI/CD**: GitHub Actions, multi-stage builds, Testcontainers
+- **Open-source contribution** and maintainer workflows
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
