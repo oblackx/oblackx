@@ -167,5 +167,5 @@
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohammed Amine ELBOUHALI</a> • Auto-updated daily via GitHub Actions</sub>
+  <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohammed Amine ELBOUHALI</a> • Auto-updated daily via GitHub Actions • Last refresh: 2026-11-21</sub>
 </p>
