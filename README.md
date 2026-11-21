@@ -1,5 +1,5 @@
 <!--Banner-->
-![Mohamed Amine ELBOUHALI Banner](./banner.png)
+![Mohamed Amine ELBOUHALI Banner](./banner-pro.png)
 
 <!--Animated Skills (Dark/Light mode aware)-->
 <picture>
