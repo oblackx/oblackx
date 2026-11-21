@@ -63,10 +63,10 @@
 
 | Certification | Issuer | Date | Credential |
 | :--- | :--- | :--- | :--- |
-| **Neural Networks and Deep Learning** | DeepLearning.AI | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/TCP2HNO5Z5QA) |
-| **Foundations: Data, Data, Everywhere** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/UXDSM8IQJGCT) |
-| **Foundations of Project Management** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/KXBDE8RPT6DO) |
-| **The Unix Workbench** | Johns Hopkins University | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/1EAJRHYXDCZ0) |
+| **🧠 Neural Networks and Deep Learning** | DeepLearning.AI | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/verify/TCP2HNO5Z5QA) |
+| **📊 Foundations: Data, Data, Everywhere** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/UXDSM8IQJGCT) |
+| **📋 Foundations of Project Management** | Google | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/KXBDE8RPT6DO) |
+| **💻 The Unix Workbench** | Johns Hopkins University | Nov 2026 | [View](https://www.coursera.org/account/accomplishments/records/1EAJRHYXDCZ0) |
 
 ---
 
