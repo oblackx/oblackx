@@ -62,7 +62,7 @@ def create_banner():
             info_font = ImageFont.load_default()
 
     # Center title
-    title = "MOHAMED AMINE ELBOUHALI"
+    title = "MOHAMMED AMINE ELBOUHALI"
     subtitle = "WELCOME TO MY PROFILE"
 
     # Calculate positions

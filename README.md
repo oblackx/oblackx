@@ -1,5 +1,5 @@
 <!--Banner-->
-![Mohamed Amine ELBOUHALI Banner](./banner-pro.png)
+![Mohammed Amine ELBOUHALI Banner](./banner-pro.png)
 
 <!--Animated Skills (Dark/Light mode aware)-->
 <picture>
@@ -9,7 +9,7 @@
 </picture>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> **Mohamed Amine ELBOUHALI (oblackx)**  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> **Mohammed Amine ELBOUHALI (oblackx)**  
 *Computer Engineering Student | Full-Stack & AI/RAG Developer*
 
 ---
@@ -135,7 +135,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="40" alt="Email" style="margin: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/mohammed-amine-elbouhali-60b4712b2" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-amine-elbouhali/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="40" alt="LinkedIn" style="margin: 5px;" />
 </a>
 
@@ -154,5 +154,5 @@
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohamed Amine ELBOUHALI</a> • Auto-updated daily via GitHub Actions</sub>
+  <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohammed Amine ELBOUHALI</a> • Auto-updated daily via GitHub Actions</sub>
 </p>
