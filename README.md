@@ -119,7 +119,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Johnson&quote=Before%20software%20can%20be%20reusable%20it%20first%20has%20to%20be%20usable%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arthur%20Samuel&quote=Machine%20learning%20is%20the%20science%20of%20getting%20computers%20to%20act%20without%20being%20explicitly%20programmed%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
