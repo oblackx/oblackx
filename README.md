@@ -119,7 +119,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Arthur%20Samuel&quote=Machine%20learning%20is%20the%20science%20of%20getting%20computers%20to%20act%20without%20being%20explicitly%20programmed%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Good%20architecture%20is%20like%20a%20good%20poem%20—%20it%20says%20more%20with%20less%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
