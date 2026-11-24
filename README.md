@@ -159,6 +159,7 @@
 - **Full-stack development**: Laravel, FastAPI, JavaFX
 - **Docker & CI/CD**: GitHub Actions, multi-stage builds, Testcontainers
 - **Open-source contribution** and maintainer workflows
+- **Collaborative pair-programming workflows** with GitHub PRs and co-authored commits
 
 ---
 
@@ -169,3 +170,4 @@
 <p align="center">
   <sub>Built with ❤️ by <a href="https://github.com/oblackx">Mohammed Amine ELBOUHALI</a> • Auto-updated daily via GitHub Actions • Last refresh: 2026-11-21</sub>
 </p>
+- Collaborative pair-programming workflows with GitHub PRs and co-authored commits
