@@ -119,7 +119,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Good%20architecture%20is%20like%20a%20good%20poem%20—%20it%20says%20more%20with%20less%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Kay&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
