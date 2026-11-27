@@ -119,7 +119,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harold%20Abelson&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dennis%20Ritchie&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
