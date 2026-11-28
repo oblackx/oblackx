@@ -119,7 +119,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dennis%20Ritchie&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Fowler&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand%2E%20Good%20programmers%20write%20code%20that%20humans%20can%20understand%2E&theme=dark&bg_color=1a1b27&author_color=36BCF7&accent_color=36BCF7">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
